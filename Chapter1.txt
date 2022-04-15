@@ -1,0 +1,12 @@
+it was so worst today!!!
+
+i am so unproductive.
+
+
+git init - intitalize empty repository
+
+git status - see what is stagging area
+
+files need to be staging area to commit
+
+to enter in to staging area use git add filename (here file name is Chapter1.txt)
