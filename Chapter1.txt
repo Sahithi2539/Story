@@ -19,3 +19,29 @@ now to see what changes have been commited we use
 
 git log command
 
+git add .
+
+to add all files at once to staging area
+
+git diff filename(here Chapter3.txt)
+
+to see the differences made
+
+git checkout filename
+
+the changes made can be reverted back
+
+-------------------------------------------
+
+now lets see the remote repository
+ 
+git remote add origin url_of_remote_repository
+
+origin is just name can be any thing preffered to be origin as most 
+developers use it
+
+git push -u origin master
+
+origin - name of remote
+master - name of branch
+
