@@ -45,3 +45,18 @@ git push -u origin master
 origin - name of remote
 master - name of branch
 
+-------------------------------------------------
+how to hide files when our files on public
+useful for confidential files
+
+create a .gitignore file 
+and places all file names that you want hide in .gitignorefile
+
+-------------------------------------------------
+git add a branch 
+----------------------
+to create a new branch
+git branch branch_name (here alien-plot)
+
+to change to particular branch
+git checkout branch_name (here alien_plot)
